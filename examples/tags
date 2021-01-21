@@ -1,0 +1,4 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+empty	/home/dwijesh/Documents/sem7/compilers/labs/lab2/cc/examples/test1.c	/^void empty() { }$/;"	f	language:C++
+simple_arith	/home/dwijesh/Documents/sem7/compilers/labs/lab2/cc/examples/test1.c	/^void simple_arith() {$/;"	f	language:C++
+simple_arith_with_arg	/home/dwijesh/Documents/sem7/compilers/labs/lab2/cc/examples/test1.c	/^void simple_arith_with_arg(int d) {$/;"	f	language:C++
